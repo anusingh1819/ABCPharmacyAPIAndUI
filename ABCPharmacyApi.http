@@ -1,0 +1,6 @@
+@ABCPharmacyApi_HostAddress = http://localhost:5211
+
+GET {{ABCPharmacyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

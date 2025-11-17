@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "cf62a5b2-34a4-468b-982e-3062590cab4a",
+    "FullName": "",
+    "Notes": null,
+    "ExpiryDate": "0001-01-01T00:00:00",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": ""
+  },
+  {
+    "Id": "9efd5484-455c-418b-ac76-fa469ba77f4c",
+    "FullName": "",
+    "Notes": null,
+    "ExpiryDate": "0001-01-01T00:00:00",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": ""
+  },
+  {
+    "Id": "2459ec85-3f71-4a2d-abd9-1a021a0e695f",
+    "FullName": "paracetamol",
+    "Notes": "Headache medicine",
+    "ExpiryDate": "2025-12-19T00:00:00",
+    "Quantity": 90,
+    "Price": 10,
+    "Brand": "acetaminophen "
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "4c11e5ee-b429-42a7-9fcf-063f5bfd4947",
+    "MedicineId": "2459ec85-3f71-4a2d-abd9-1a021a0e695f",
+    "MedicineName": "paracetamol",
+    "QuantitySold": 10,
+    "SalePricePerUnit": 10,
+    "SoldAt": "2025-11-17T18:47:21.3927665Z"
+  }
+]
